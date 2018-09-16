@@ -16,8 +16,8 @@
  *
  * You should have received a copy of the GNU Lesser General Public
  * License along with this library; if not, write to the Free Software
- * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA
- * by lhm 20180828
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, US * by lhm 20180828
+ * by seaming 20180916
  */
  
 import java.io.BufferedReader;
